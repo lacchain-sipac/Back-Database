@@ -12,7 +12,7 @@ var document = [{
     {
         "code": "ROLE_DIR_ADJ",
         "name": "Director Adjunto",
-        "description": "El Director Adjunto acredita la solicitud y aprueba muchos documentos de la fase de procesos",
+        "description": "Director Adjunto",
         "createdBy": "Owner",
         "createdDate": new Date(),
         "lastModifiedBy": "Owner",
@@ -39,7 +39,7 @@ var document = [{
     {
         "code": "ROLE_ASI_DIR_EJE",
         "name": "Asistente Director Ejecutivo",
-        "description": "El asistente del Director Ejecutivo se encarga de adjuntar y acreditar las Solicitudes de No Objecion BID",
+        "description": "Asistente Director Ejecutivo",
         "createdBy": "Owner",
         "createdDate": new Date(),
         "lastModifiedBy": "Owner",
@@ -57,7 +57,7 @@ var document = [{
     {
         "code": "ROLE_DIR_ADM_FIN",
         "name": "Director Administrativo Financiero",
-        "description": "El Director Administrativo Financiero define presupuestos",
+        "description": "Director Administrativo Financiero",
         "createdBy": "Owner",
         "createdDate": new Date(),
         "lastModifiedBy": "Owner",
@@ -66,7 +66,7 @@ var document = [{
     {
         "code": "ROLE_COO_TEC",
         "name": "Coordinador Técnico",
-        "description": "El coordinador Técnico se encarga de prepara el expediente técnico",
+        "description": "Coordinador Técnico",
         "createdBy": "Owner",
         "createdDate": new Date(),
         "lastModifiedBy": "Owner",
@@ -109,7 +109,7 @@ var document = [{
     }, {
         "code": "ROLE_BID",
         "name": "BID",
-        "description": "El BID Consulta cada fase y cada paso del proyecto Honduras",
+        "description": "BID",
         "createdBy": "Owner",
         "createdDate": new Date(),
         "lastModifiedBy": "Owner",

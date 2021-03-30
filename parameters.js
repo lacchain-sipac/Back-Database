@@ -22,7 +22,7 @@ var document = [{
         "typeParameter": "FundingSource",
         "parameters": [{
             "code": "01",
-            "description": "Prestamos"
+            "description": "Préstamo"
         }, {
             "code": "02",
             "description": "Donación"
@@ -54,7 +54,6 @@ var document = [{
         }, {
             "code": "4713/BL-HO",
             "description": "Fortalecimiento Integral de la Red de Atención de Traumas y Urgencias de Tegucigalpa",
-            "description": "Programa de Integración Vial Regional II",
             "group": {
                 "type": "AssociatedComponent",
                 "parameter": [
@@ -63,7 +62,7 @@ var document = [{
             }
         }, {
             "code": "4936/BL-HO",
-            "description": "4936 Proyecto Integral de Desarrollo Rural y Productividad",
+            "description": "Proyecto Integral de Desarrollo Rural y Productividad",
             "group": {
                 "type": "AssociatedComponent",
                 "parameter": [
@@ -72,7 +71,7 @@ var document = [{
             }
         }, {
             "code": "4940/BL-HO",
-            "description": "4940 Proyecto Integral de Desarrollo Rural y Productividad",
+            "description": "Proyecto Integral de Desarrollo Rural y Productividad",
             "group": {
                 "type": "AssociatedComponent",
                 "parameter": [
@@ -84,46 +83,46 @@ var document = [{
         "typeParameter": "AssociatedComponent",
         "parameters": [{
             "code": "01",
-            "description": "Obras civiles"
+            "description": "1-Obras civiles"
         }, {
             "code": "02",
-            "description": "Fortalecimiento Institucional"
+            "description": "2-Fortalecimiento Institucional"
         }, {
             "code": "03",
-            "description": "Mantenimiento"
+            "description": "3-Mantenimiento"
         }, {
             "code": "04",
-            "description": "Otros Gastos"
+            "description": "4-Otros Gastos"
         }, {
             "code": "05",
-            "description": "Mejoramiento tramos viales integrales"
+            "description": "1-Mejoramiento tramos viales integrales"
         }, {
             "code": "06",
-            "description": "Fortalecimiento Institucional INSEP"
+            "description": "2-Fortalecimiento Institucional INSEP"
         }, {
             "code": "07 ",
-            "description": "Otros gastos"
+            "description": "3-Otros gastos"
         }, {
             "code": "08",
-            "description": "Construcción y Equipamiento del Hospital de Trauma y Fortalecimiento de la red de hospitales de la zona centro, sur - oriente"
+            "description": "1-Construcción y Equipamiento del Hospital de Trauma y Fortalecimiento de la red de hospitales de la zona centro, sur - oriente"
         }, {
             "code": "09",
-            "description": "Modelo de Atención y Gestión de la Red y Hospital de Trauma"
+            "description": "2-Modelo de Atención y Gestión de la Red y Hospital de Trauma"
         }, {
             "code": "10",
-            "description": "Administración y Evaluación"
+            "description": "3-Administración y Evaluación"
         }, {
             "code": "11",
-            "description": "Fortalecimiento del desarrollo productivo"
+            "description": "1-Fortalecimiento del desarrollo productivo"
         }, {
             "code": "12",
-            "description": "Acceso a financiamiento"
+            "description": "2-Acceso a financiamiento"
         }, {
             "code": "13",
-            "description": "Sistema de monitoreo y evaluación"
+            "description": "3-Sistema de monitoreo y evaluación"
         }, {
             "code": "14",
-            "description": "Administración u otros gastos contingentes"
+            "description": "4-Administración u otros gastos contingentes"
         }]
     }, {
         "typeParameter": "FundingAgency",
